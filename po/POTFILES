@@ -1,0 +1,7 @@
+data/com.nowaffles.luminol.desktop.in
+data/com.nowaffles.luminol.appdata.xml.in
+data/com.nowaffles.luminol.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+
